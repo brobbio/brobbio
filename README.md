@@ -19,7 +19,12 @@ I am a recently graduated PhD in mathematics . I have made the decision to redir
 
 - 🔭 I’m currently working on ...
 
-#Bot: 
+A command-line bittorrent client:
 
+Working through the crafting interpreters book:
+
+Bot [private]: A twitter bot that periodically uploads random quotes from the Argetinian cult classic TV show ["Okupas"](https://www.imdb.com/title/tt0289649/). 
+
+- What I've been up to in the past ...
 
 - 📫 How to reach me: ...
