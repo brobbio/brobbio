@@ -15,26 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a recently graduated PhD in mathematics . I have made the decision to redirect my career towards software development. 
+I am a recently graduated PhD in pure mathematics. After taking various courses on data science and programming at my alma mater, I have made the decision to redirect my career towards software development. I am currently on a 12-week programming retreat at the [Recurse Center](www.recurse.com), and I will soon start to look for jobs.
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
 
-     - Quantum computing!
+     - Quantum computing. 
+     - Algorithms on graphs.
 
-- 🔭 I’m currently working on ...
+- 💬 Ask me about ...
 
-     - A command-line bittorrent client in Python.
+- 🔭 I’m currently working on:
 
-     - Working through the [crafting interpreters book](https://craftinginterpreters.com/)
+     - A command-line bittorrent client [Python].
 
-     - Bot [private]: A twitter bot that periodically uploads random quotes from the Argetinian cult classic TV show ["Okupas"](https://www.imdb.com/title/tt0289649/). 
+     - Working through the [crafting interpreters book](https://craftinginterpreters.com/), looking to port the code to Python.
 
-- :rewind: What I've been up to in the past ...
+     - Bot [private]: A twitter bot that periodically uploads random quotes from the Argetinian cult classic TV show ["Okupas"](https://www.imdb.com/title/tt0289649/) [Python]. 
 
-     - A simple pacman-like videogame in C++.
+- :rewind: What I've been up to in the past:
 
-     - A random number generator in Python.
+     - A simple pacman-like videogame [C++].
 
-     - A quantitative analysis of the sitcom ["Parks and recreations"](https://www.imdb.com/title/tt1266020/).
+     - A random number generator [Python].
 
-- 📫 How to reach me: ...
+     - A quantitative analysis of the sitcom ["Parks and recreations"](https://www.imdb.com/title/tt1266020/) [Python].
+
+- :bread: Misc:
+
+     - A collection of solved leetcode exercises that I found interesting [C++/Python].
+     
+     - Level 2 on [Project Euler](https://projecteuler.net/about) (username: brobbio) [C++/Python].
+
+- 📫 How to reach me: 
+     
+     - email: brobbio@hotmail.com     
