@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a recently graduated PhD in pure mathematics. After taking various courses on data science and programming at my alma mater, I have made the decision to redirect my career towards software development. I am currently on a 12-week programming retreat at the [Recurse Center](www.recurse.com), and I will soon start to look for jobs.
+I am a recently graduated PhD in pure mathematics. After taking various courses on data science and programming at my alma mater, I have made the decision to redirect my career towards software development. I am currently on a 12-week programming retreat at the [Recurse Center](www.recurse.com), and I am actively looking for jobs.
 
 - 🌱 I’m currently learning:
 
      - Quantum computing. 
      - Algorithms on graphs.
 
-- 💬 Ask me about ...
+- 💬 Ask me about:
+
+     - Concurrence problems, interpreters, and baking pizza :pizza: .
 
 - 🔭 I’m currently working on:
 
