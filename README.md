@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Bruno 👋
 
 <!--
 **brobbio/brobbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a recently graduated PhD in mathematics . I have made the decision to redirect my career towards software development. 
+
+- 🔭 I’m currently working on ...
+
+##Bot: 
+
+
+- 📫 How to reach me: ...
