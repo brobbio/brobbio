@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a recently graduated PhD in pure mathematics. After taking various courses on data science and programming at my alma mater, I have made the decision to redirect my career towards software development. I am currently on a 12-week programming retreat at the [Recurse Center](www.recurse.com), and I am actively looking for jobs.
+I am a recently graduated PhD in pure mathematics by the [University of the Basque Country](https://www.ehu.eus/en/en-home). Before that, I finished my BsC and Masters at [University of Buenos Aires](https://exactas.uba.ar/). After taking various courses on data science and programming at my alma mater, I have made the decision to redirect my career towards software development. I am currently on a 12-week programming retreat at the [Recurse Center](www.recurse.com), and I am actively looking for jobs.
 
 - 🌱 I’m currently learning:
 
@@ -44,7 +44,7 @@ I am a recently graduated PhD in pure mathematics. After taking various courses 
 
 - :bread: Misc:
 
-     - A collection of solved leetcode exercises that I found interesting [C++/Python].
+     - A collection of solved leetcode exercises that I find interesting [C++/Python].
      
      - Level 2 on [Project Euler](https://projecteuler.net/about) (username: brobbio) [C++/Python].
 
