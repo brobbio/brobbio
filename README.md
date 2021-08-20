@@ -19,22 +19,22 @@ I am a recently graduated PhD in mathematics . I have made the decision to redir
 
 - 🌱 I’m currently learning ...
 
---> Quantum computing!
+    --> Quantum computing!
 
 - 🔭 I’m currently working on ...
 
---> A command-line bittorrent client in Python.
+    --> A command-line bittorrent client in Python.
 
---> Working through the [crafting interpreters book](https://craftinginterpreters.com/)
+    --> Working through the [crafting interpreters book](https://craftinginterpreters.com/)
 
---> Bot [private]: A twitter bot that periodically uploads random quotes from the Argetinian cult classic TV show ["Okupas"](https://www.imdb.com/title/tt0289649/). 
+    --> Bot [private]: A twitter bot that periodically uploads random quotes from the Argetinian cult classic TV show ["Okupas"](https://www.imdb.com/title/tt0289649/). 
 
 - :rewind: What I've been up to in the past ...
 
---> A simple pacman-like videogame in C++.
+    --> A simple pacman-like videogame in C++.
 
---> A random number generator in Python.
+    --> A random number generator in Python.
 
---> A quantitative analysis of the sitcom ["Parks and recreations"](https://www.imdb.com/title/tt1266020/).
+    --> A quantitative analysis of the sitcom ["Parks and recreations"](https://www.imdb.com/title/tt1266020/).
 
 - 📫 How to reach me: ...
