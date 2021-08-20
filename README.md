@@ -19,7 +19,7 @@ I am a recently graduated PhD in mathematics . I have made the decision to redir
 
 - 🔭 I’m currently working on ...
 
-##Bot: 
+#Bot: 
 
 
 - 📫 How to reach me: ...
