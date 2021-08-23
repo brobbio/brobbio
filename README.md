@@ -20,6 +20,7 @@ I am a recently graduated PhD in pure mathematics by the [University of the Basq
 - 🌱 I’m currently learning:
 
      - Quantum computing. 
+     - Compilers and interpreters.
      - Algorithms on graphs.
 
 - 💬 Ask me about:
